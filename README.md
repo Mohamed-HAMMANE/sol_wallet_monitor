@@ -44,10 +44,6 @@ A simple, robust Node.js bot that monitors the combined SOL balance of multiple 
 
     # (Optional) Minimum balance change to trigger alert (default: 0)
     DIFF=0.001
-
-    # (Optional) Custom RPC URL (Recommended for stability)
-    # Defaults to public mainnet-beta if not set
-    SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
     ```
 
 ## Usage
